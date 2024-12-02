@@ -18,4 +18,4 @@ Machine Learning algorithm implementations in Python
 
 *random* for making up Mini-Batch for gradient descent
 
-*pandas* for test data generation
+*scikit-learn* and *pandas* for test data generation
